@@ -1,0 +1,2 @@
+Push project to github from linux terminal 
+
